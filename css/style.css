@@ -53,7 +53,6 @@
     margin-right: -200px; }
   .carousel-indicators li.square-ind {
     border-radius: 0;
-    border: 3px solid #414146;
     width: 20px;
     height: 20px;
     background-color: #414146; }
@@ -223,8 +222,7 @@
   .fa-facebook {
     margin-left: 10px; }
   a:focus, a:hover {
-    color: white;
-    cursor: hand; }
+    color: white; }
   .social-float {
     float: left;
     margin: 0; } }
