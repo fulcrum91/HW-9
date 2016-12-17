@@ -1,0 +1,411 @@
+@media screen and (min-width: 320px) {
+  body {
+    background-color: #f6f6f6;
+  }
+  img {
+    max-width: 100%;
+    height: auto;
+  }
+  .link-example {
+    color: black;
+    font-family: Code;
+    font-size: 16px;
+    font-weight: 300;
+    line-height: 32px;
+    text-transform: uppercase;
+  }
+  .button {
+    margin-top: 80px;
+    background-color: #ffeb00;
+  }
+  .navbar-default .navbar-toggle:focus, .navbar-default .navbar-toggle:hover {
+    background-color: #ffeb00;
+  }
+  .navbar-default .navbar-nav > li > a:focus, .navbar-default .navbar-nav > li > a:hover {
+    background-color: #ffeb00;
+  }
+  .img-position {
+    margin: 38px 0 22px 0;
+  }
+  .menu {
+    background: #f6f6f6;
+    border-color: #f6f6f6;
+    margin: 0;
+    padding: 0;
+    box-shadow: none !important;
+  }
+  .item{
+    background-image: url("../image/slider-bg.png");
+    text-align: center;
+    height: 600px!important;
+  }
+  .carousel{
+    margin-top: 20px;
+  }
+  .block{
+    display: block;
+    margin-bottom: 8px;
+  }
+  .text-carousel{
+    margin-top: 10px;
+    color: black;
+    font: 400 70px/85px "Century Gothic";
+    text-transform: uppercase;
+    background-color: #ffeb00;
+  }
+  span.text-carousel:nth-child(2){
+    margin-right: -200px;
+  }
+  .carousel-indicators li.square-ind {
+    border-radius: 0;
+    border: 3px solid #414146;
+    width: 20px;
+    height: 20px;
+    background-color: #414146;
+  }
+  .carousel-indicators .square-ind.active {
+    background-color: #ffea00;
+    margin: 1px;
+  }
+  .grid-sizer,
+  .grid-item { width: 16.5%; margin-bottom: 4px;}
+  .grid-item--width2 { width: 33%; }
+  .p-carousel{
+    width: 365px;
+    background-color: #3f3f44;
+    color: white;
+    font-family: "Century Gothic";
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 33px;
+  }
+  .a-carousel{
+    margin-right: -400px;
+    width: 133px;
+    padding: 10px 28px;
+    background-color: #000;
+    border-bottom: 2px solid #ffeb00;
+    color: white;
+    font-family: "Century Gothic";
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 38px;
+
+  }
+  .margin-caousel{
+    margin-top: 100px;
+  }
+  .h2-design{
+    margin: 90px 0 27px 0;
+    text-align: center;
+    color: #424147;
+    font-family: "Century Gothic";
+    font-size: 35px;
+    font-weight: 400;
+    line-height: 21px;
+    text-transform: uppercase;
+  }
+  .p-design{
+    text-align: center;
+    color: #424147;
+    font-family: "Century Gothic";
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 21px;
+    margin-bottom: 30px;
+  }
+  .h2-work{
+    margin-left: 600px;
+    width: 130px;
+    padding: 28px 8px 28px 8px;
+    background-color: #403f46;
+    color: #ffea00;
+    font-family: "Century Gothic";
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 21px;
+    text-transform: uppercase;
+  }
+  .design-example{
+    color: white;
+    font-family: Code;
+    font-size: 20px;
+    font-weight: 300;
+    line-height: 23px;
+    padding: 18px 0 10px 18px;
+  }
+  .second-design{
+    display: block;
+    text-align: right;
+    height: 10px;
+    color: #ffea00;
+    font-family: "Century Gothic";
+    font-size: 10px;
+    font-weight: 400;
+    line-height: 17px;
+  }
+  .design-back{
+    width: 250px;
+    background-color: #424147;
+  }
+  .design-back2{
+    text-align: center;
+    width: 250px;
+    background-color: #424147;
+    padding-bottom: 2px;
+  }
+  .color{
+    color: #fff;;
+  }
+  .p-work{
+    text-align: center;
+    color: #424146;
+    font-family: "Century Gothic";
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 21px;
+    margin: 30px 40px;
+  }
+  .masonry[data-columns]:before{
+    content: '2 col-xs-6';
+  }
+  footer{
+    background: #000;
+    padding: 28px 0;
+  }
+  .wrap{
+    display: block;
+  }
+  .copy{
+    float: left;
+    padding-top: 7px;
+  }
+  .copy p{
+    color: white;
+    font-family: "Century Gothic";
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 32px;
+    margin-left: 120px;
+  }
+  p.copy a {
+    color: #FFEA00;
+  }
+  footer ul{
+    margin-top: 18px;
+  }
+  footer ul li a:hover {
+    color: #fff;
+  }
+  footer ul li a {
+    color: white;
+    font-family: Code;
+    font-size: 16px;
+    font-weight: 300;
+    line-height: 32px;
+    margin-right: 60px;
+  }
+  .about-us{
+    background-color: #414146;
+    padding: 30px 0 30px 0;
+  }
+  .about-us h4{
+    color: white;
+    font-family: "Century Gothic";
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 32px;
+  }
+  .about-us p{
+    color: white;
+    font-family: "Century Gothic";
+    font-size: 13px;
+    font-weight: 400;
+    line-height: 21px;
+    margin: 40px 0 30px 0;
+}
+  .about-us a{
+    font-size: 15px;
+  }
+  ul.simple{
+    li {
+      color: white;
+      font-family: "Century Gothic";
+      font-size: 13px;
+      font-weight: 400;
+      line-height: 21px;
+      margin-top: 20px;
+      &:before {
+        content: "\f099";
+        font-family: FontAwesome;
+        color: white;
+        margin-right: 20px;
+        font-size: 22px;
+      }
+    }
+  }
+  .a-color{
+    color: #ffea00;
+  }
+  ul.simple li {
+    display: block;
+  }
+  .fa-facebook, .fa-google-plus, .fa-tumblr, .fa-linkedin, .fa-youtube, .fa-rss{
+    margin-top: 40px;
+    color: white;
+    font-size: 20px;
+    padding: 5px 5px;
+    background-color: black;
+  }
+  .fa-facebook{
+    margin-left: 10px;
+  }
+  a:focus, a:hover {
+    color: white;
+    cursor: hand;
+  }
+  .social-float{
+    float: left;
+    margin: 0;
+  }
+  @media (min-width: 768px) and (max-width: 991px) {
+    #myCarousel_2 .carousel-inner .item .item-item:last-child {
+      display: none;
+    }
+  }
+  @media (max-width: 768px) {
+    #mymyCarousel_2 .carousel-inner {
+      height: 320px;
+    }
+  }
+  #myCarousel_2 .carousel-inner {
+    overflow-y: hidden;
+  }
+  #myCarousel_2 .carousel-inner .active.left { left: -25%; }
+  #myCarousel_2 .carousel-inner .next        { left:  25%; }
+  #myCarousel_2.carousel-inner .prev    { left: -25%; }
+  #myCarousel_2 .carousel-control        { width:  4%; }
+  #myCarousel_2 .carousel-control.left,.carousel-control.right {margin-left:15px;background-image:none;}
+  #myCarousel_2 .carousel-inner .item-item {
+    padding:0!important;
+  }
+  #myCarousel_2 .carousel-inner .item{
+    background: none;
+    height: auto !important;
+  }
+  li {
+    list-style-type: none;
+  }
+  ul {
+    margin-left: 0;
+    padding-left: 0;
+  }
+  ul li {
+    display: inline-block;
+  }
+  a{
+    text-decoration: none;
+  }
+  .li-example {
+    margin: 20px 0 50px 0;
+  }
+
+  .outer-box {
+    width: 250px;
+    height: 100%;
+    display: block;
+    position: relative;
+  }
+  .outer-box img {
+    width: 250px;
+  }
+  .outer-box .inner-box {
+    background-image: url("../image/bog-post-img.png");
+    height: 100%;
+    width: 100%;
+    opacity: 0;
+    top: 0;
+    left: 0;
+    position: absolute;
+    padding: 0;
+    transition: opacity .5s;
+    &::after{
+      content: '';
+      position: absolute;
+      right: 21px;
+      bottom: 0;
+      width: 0;
+      height: 0;
+      border-left: 10px solid transparent;
+      border-right: 10px solid transparent;
+      border-bottom: 10px solid #414146;
+    }
+  }
+  .outer-box .inner-box p {
+    color: #fff;
+    line-height: 150px;
+    font-family: 'arial';
+    text-align: center;
+  }
+  .outer-box .inner-box a {
+    color: #fff;
+    font-family: 'arial';
+    text-align: center;
+  }
+  .outer-box:hover .inner-box {
+    opacity: 1;
+    transition: opacity .5s;
+  }
+  address{
+    ul{
+      li{
+        color: white;
+        font-family: "Century Gothic";
+        font-size: 13px;
+        font-weight: 400;
+        line-height: 21px;
+        margin-top: 20px;
+      }
+    }
+  }
+  address{
+    ul{
+      li:first-child{
+        &:before {
+          content: "\f041";
+          font-family: FontAwesome;
+          color: white;
+          margin-right: 20px;
+          font-size: 22px;
+        }
+      }
+      li:nth-child(2){
+        &:before {
+          content: "\f232";
+          font-family: FontAwesome;
+          color: white;
+          margin-right: 20px;
+          font-size: 22px;
+        }
+      }
+      li:nth-child(2){
+        &:before {
+          content: "\f232";
+          font-family: FontAwesome;
+          color: white;
+          margin-right: 20px;
+          font-size: 22px;
+        }
+      }
+      li:last-child{
+        &:before {
+          content: "\f003";
+          font-family: FontAwesome;
+          color: white;
+          margin-right: 20px;
+          font-size: 22px;
+        }
+      }
+    }
+  }
+}
