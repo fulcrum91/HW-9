@@ -1,0 +1,10 @@
+@import "fonts";
+@import "style320px";
+@media screen and (min-width: 1220px){
+  .nav-position{
+    margin-top: 80px;
+  }
+  .masonry[data-columns]:before{
+    content: '4 .column.size-1of4 col-xs-6';
+  }
+}
